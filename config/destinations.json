@@ -1,0 +1,10 @@
+[
+  {
+    "id": "DEV100",
+    "description": "S/4HANA 2023 FPS01 - DEV client 100",
+    "baseUrl": "https://s4hvm.ides01.com:44300",
+    "client": "100",
+    "apiPath": "/sap/bc/zform_read/v1",
+    "credentialPrefix": "SAP_DEV100"
+  }
+]
